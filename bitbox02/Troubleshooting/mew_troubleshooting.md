@@ -51,7 +51,7 @@ If MyEtherWallet shows you an error message, please see if you can find the erro
 
 | Error message| Proposed solution |
 |:-------------|:------------------|
-| BitBoxBridge not found | Please make you have downloaded and installed the [BitBoxBridge](https://shiftcrypto.ch/start/). If it is already installed, make sure it is running by following [these instructions](https://guides.shiftcrypto.ch/bitbox02/Troubleshooting/mew_troubleshooting/#issue-bitboxbridge-not-found).|
+| BitBoxBridge not found | Please make you have downloaded and installed the [BitBoxBridge](https://shiftcrypto.ch/start/#bridge). If it is already installed, make sure it is running by following [these instructions](https://guides.shiftcrypto.ch/bitbox02/Troubleshooting/mew_troubleshooting/#issue-bitboxbridge-not-found).|
 | Unlock BitBox02  | Unlock the BitBox02 by entering your password on the device|
 | Unexpected error | Disconnect and reconnect the BitBox02 and try again.  |
 | Action aborted by user  | You cancelled a process on the BitBox02. Try again.  |
@@ -69,7 +69,7 @@ If MyEtherWallet shows you an error message, please see if you can find the erro
 ### Issue: BitBoxBridge not found
 {: .no_toc }
 
-- To use MyEtherWallet, you need to download and install the [BitBoxBridge](https://shiftcrypto.ch/start/)
+- To use MyEtherWallet, you need to download and install the [BitBoxBridge](https://shiftcrypto.ch/start/#bridge)
 - If BitBoxBridge is already installed, make sure service is running:
 
 #### Windows
