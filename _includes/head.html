@@ -20,14 +20,20 @@
 
 
   {% if site.ga_tracking != nil %}
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga_tracking }}"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
 
-      gtag('config', "{{ site.ga_tracking }}");
-    </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga_tracking }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ site.ga_tracking }}', {
+          anonymize_ip: true,
+          linker: {
+            accept_incoming: true,
+            domains: ['shiftcrypto.shop'],
+          }
+    });
+  </script>
 
   {% endif %}
 
