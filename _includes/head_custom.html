@@ -5,11 +5,19 @@
   tap('detect');
 </script>
 
-<!--DESKPRO_WIDGET_LOADER::BEGIN-->
-<script type="text/javascript">
-window.DESKPRO_WIDGET_OPTIONS = {
-    "helpdeskUrl": "https:\/\/support.shiftcrypto.ch\/"
-};
+<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+
+<button style="position: fixed; bottom: 1rem; right: 1rem; z-index: 1000" class="btn" id="feedback-form">Contact</button>
+
+<script id="zammad_form_script" src="https://shiftcrypto.support/assets/form/form.js"></script>
+
+<script>
+$(function() {
+  $('#feedback-form').ZammadForm({
+    messageTitle: 'Ticket via form on guides.shiftcrypto.ch',
+    messageSubmit: 'Submit',
+    messageThankYou: 'Thank you for your inquiry (#%s)! We\'ll contact you as soon as possible.',
+    modal: true
+  });
+});
 </script>
-<script type="text/javascript" id="dp-widget-loader" src="https://support.shiftcrypto.ch/dyn-assets/pub/build/widget_loader.min.js"></script>
-<!--DESKPRO_WIDGET_LOADER::END-->

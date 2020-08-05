@@ -15,7 +15,7 @@
   font-size: inherit;
   font-weight: 500;
   line-height: 1.5;
-  color: $link-color;
+  color: #ffffff;
   text-decoration: none;
   vertical-align: baseline;
   cursor: pointer;
@@ -38,7 +38,7 @@
 
   &:hover,
   &.zeroclipboard-is-hover {
-    color: darken($link-color, 2%);
+    background-color: darken($base-button-color, 10%);
   }
 
   &:hover,
@@ -52,7 +52,7 @@
   &:active,
   &.selected,
   &.zeroclipboard-is-active {
-    background-color: darken($base-button-color, 3%);
+    background-color: darken($base-button-color, 10%);
     background-image: none;
     box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15);
   }
