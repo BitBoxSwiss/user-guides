@@ -14,7 +14,7 @@ authenticator (FIDO compliant U2F).
 
 ![alt text]({% link assets/images/BitBox02/01_bb02_render.png %})
 
-[Download Datasheet](https://shiftcrypto.ch/bitbox02/BitBox02_Datasheet.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Download Datasheet](https://shiftcrypto.ch/bitbox02/BitBox02_Datasheet.pdf){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 
 ---
