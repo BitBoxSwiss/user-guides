@@ -16,42 +16,42 @@ grand_parent: BitBox02
 {:toc}
 ---
 ## How it works
-Simplified: When you set up a BitBox02, it  generates a "long random number" which is converted into a mnemonic seed, which is  stored on the device and on the microSD card backup.
+Simplified: When you set up a BitBox02, it  generates a "long random number" which is converted into your 24 recovery words (also called mnemonic seed), which is  stored on the device and on the microSD card backup.
 
 Subsequently, whenever the BitBox02 is used, it derives a cryptocurrency wallet via a (very simplified) formula:
-**mnemonic seed + passphrase**
+**recovery words + passphrase -> wallet**
 
-If you don't use a passphrase that is: mnemonic seed + "" (empty string)
+If you don't use a passphrase that is: 24 recovery words + "" (empty string)
 
-If you use a passphrase that passphrase is appended to the mnemonic seed and your wallet is derived from that.
+If you use a passphrase that passphrase is appended to the recovery words and your wallet is derived from that.
 
 As a result to how that process works, **any passphrase is *valid***. Valid in the sense that you won't get an error message but if the passphrase is not identical to the one you used when you set up your wallet, you will derive a different wallet.
 ### Example:
 {: .no_toc }
 
-mnemonic seed + passphrase1 -> Wallet1
+recovery words + passphrase1 -> wallet1
 
-mnemonic seed + passphrase2 -> Wallet2
+recovery words + passphrase2 -> wallet2
 
-mnemonic seed + passphrase3 -> Wallet3
+recovery words + passphrase3 -> wallet3
 
 ### Attention: Any passphrase is valid
 Mistyping the passphrase will generate a completely new wallet. There is no such thing as an "incorrect passphrase", so whatever you provide as your input will be used in the process of deriving a wallet.
 
-If you enter an empty passphrase (no passphrase at all), your BitBox02 will proceed exactly as if the passphrase feature had not been activated at all, and generate a wallet from your recovery seed stored on the device.
+If you enter an empty passphrase (no passphrase at all), your BitBox02 will proceed exactly as if the passphrase feature had not been activated at all and derives a wallet from only your recovery words which are stored on the device.
 
 > **In order to restore a wallet that used a passphrase you will need your backup (stored on microSD card) AND the passphrase you used for that wallet.**
 
 
 ### Benefits of using a passphrase
-1. Because the passphrase is not stored anywhere on the device, it helps to protect against any attacks involving physical access to the device. Furthermore, if somebody compromised your physical copy of the recovery seed, they still would not be able to access your passphrase protected wallet unless they knew the passphrase.
+1. Because the passphrase is not stored anywhere on the device, it helps to protect against any attacks involving physical access to the device. Furthermore, if somebody compromised your physical copy of the recovery words (i.e. your microSD card backup or the recovery words written down on paper (optional)), they still would not be able to access your wallet unless they also know the passphrase.
 2. You can create as many passphrase-protected wallets as you like. This gives you a secondary advantage: hidden wallets = plausible deniability.
 >Example: You might want to leave some pocket money in the basic "non-passphrase" wallet, then move a portion of your funds to one passphrase; and lastly, the most significant portion of your funds to another passphrase-protected wallet.
 The idea behind this is that if you ever find yourself in a situation where somebody is trying to extort a ransom from you or puts you under duress, you can safely give up the PIN.
 
 ### Risks of using a passphrase
 1. Because the passphrase is not stored anywhere automatically, you need to take **all necessary precautions** in order to make sure that the passphrase stays safe and accessible e.g. by making a physical backup.
-2. If the passphrase is lost, it can only be found by guessing (brute-forcing) which is often technologically and economically infeasible (read impossible). The difficulty of guessing the passphrase varies depending on the strength (complexity) of the passphrase.
+2. If the passphrase is lost, you will not be able to access that wallet anymore and any coins stored in that wallet will become unaccessible.
 
 ## Using a passhrase
 ### Enable optional passphrase in device settings

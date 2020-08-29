@@ -10,7 +10,7 @@ At the top of the device settings you can find the "Secrets" section. This secti
 It let's you:
 {% if include.product == "BitBox02" %}
 * [manage and verify your backups.]({% link bitbox02/basics/managing-backups.md %})
-* [view your BIP39 seed to back it up on paper or metal.]({% link bitbox02/advanced/view-seed.md %})
+* [view your wallet recovery words to back it up on paper or metal.]({% link bitbox02/advanced/view-seed.md %})
 * [reset your {{include.product}}.]({% link bitbox02/advanced/reset.md %})
 {% elsif include.product == "BitBox01" %}
 * [manage and verify your backups.]({% link bitbox01/basics/managing-backups.md %})

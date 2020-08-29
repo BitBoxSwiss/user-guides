@@ -17,7 +17,7 @@ grand_parent: BitBox02
 ---
 
 ## Make sure you have your backup
-**Caution:** Resetting your device deletes all data, including your seed, from the device. It is essential that you have a working backup of your wallet before you reset your BitBox02. If that is not the case you will most likely **forever lose your coins!!!**
+**Caution:** Resetting your device deletes all data, including your wallet, from the device. It is essential that you have a working backup of your wallet before you reset your BitBox02. If that is not the case you will **forever lose your coins!!!**
 
 ## Resetting your BitBox02
 ### Reset without device unlock

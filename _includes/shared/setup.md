@@ -63,7 +63,7 @@ Now you are asked to choose if you want to create a new wallet or restore an exi
 
 - If you already used a {{include.product}} before and you want to restore your wallet from your backup choose "Restore Backup" and follow [this guide]({% link bitbox02/basics/restore-from-backup.md %})
 
-- If you used a different hardware wallet before and you want to restore from the seed phrase created by that other wallet, choose "Restore from BIP-39 mnemonic" and follow [this guide]({% link 404.html %}) (TODO)
+- If you used a different hardware wallet before and you want to restore from the recovery words (seed phrase) created by that other wallet, choose "Restore from recovery words" and follow [this guide]({% link 404.html %}) (TODO)
 >**Attention**: The BitBox02 only supports Segwit (starting with 3...) and Native-Segwit (starting with bc1....) accounts. If you import a seed phrase that you used with the Legacy address format (starting with 1...) you won't see these coins in the BitBoxApp. We recommend you to move these coins to a Segwit or Native-Segwit account.
 
 - If this is the first time you create a wallet, choose "Create Wallet" and continue reading this guide.

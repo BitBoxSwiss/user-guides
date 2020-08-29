@@ -17,7 +17,7 @@ grand_parent: BitBox01
 ---
 
 ## Make sure you have your backup
-**Caution:** Resetting your device deletes all data, including your seed, from the device. It is essential that you have a working backup of your wallet before you reset your BitBox01. If that is not the case you will most likely **forever lose your coins!!!**
+**Caution:** Resetting your device deletes all data, including your seed (i.e. your wallet), from the device. It is essential that you have a working backup of your wallet before you reset your BitBox01. If that is not the case you will most likely **forever lose your coins!!!**
 To check if you have a valid backup and recovery password follow [this guide]({% link bitbox01/basics/managing-backups.md %}#verifying-a-backup)
 
 ## Resetting your BitBox01
