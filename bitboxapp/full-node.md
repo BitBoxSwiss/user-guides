@@ -42,16 +42,19 @@ On most operating systems there are two ways to run Tor:
 ## Connecting to your full node without Tor
 On your regular computer, configure the BitBoxApp to use your own node:
 
-* In the sidebar, select Settings > Connect your own full node
-* In the field “Enter the endpoint” enter the hostname or ip address and the port, e.g. raspibolt.local:50002
-* Click on “Download remote certificate”
-* Click “Check”, you should be prompted with the message “Successfully establised a connection”
-* Click “Add” to add your server to the list on the top
-* Remove the Shift servers to only connect to your own server
+1. In the BitBoxApp sidebar, select Settings > Connect your own full node.
+3. In the field “Enter the endpoint” enter the hostname or ip address and the port. For example `blockstream.info:700`.
+4. Click on “Download remote certificate”.
+5. Click “Check”, you should be prompted with the message “Successfully established a connection”.
+6. Click “Add” to add your node to the node list at the top of the page.
+7. Remove the Shift servers if you want to only connect to your own node.
 
 ## Connecting to your full node via Tor
 If you have Tor installed on your computer, you can access your own node remotely over Tor.
-
-* In the sidebar, select Settings > Enable tor proxy
-* Enable it and confirm the proxy address (usually the default 127.0.0.1:9050)
-* When adding your full node as described above, use your Tor address (e.g. gwdllz5g7vky2q4gr45zGuvopjzf33czreca3a3exosftx72ekppkuqd.onion:50001)
+- Instead of an IP address and port use your nodes's TOR address and port. For example `gwdllz5g7vky2q4gr45zGuvopjzf33czreca3a3exosftx72ekppkuqd.onion:50001`.
+- When using TOR you **don't** need to download a remote certificate so skip step 4.
+- In the BitBoxApp sidebar, select Settings > Enable tor proxy.
+- Enable the proxy and confirm the proxy address.
+  - If you are running the TOR deamon it probably is: `127.0.0.1:9050`
+  - If you are running the TOR browser it probably is: `127.0.0.1:9150`
+- Then restart the BitBoxApp in order for the new settings to take effect. 
