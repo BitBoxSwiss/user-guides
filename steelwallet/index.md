@@ -12,6 +12,8 @@ Steelwallet is an offline, metal storage tool that protects your recovery words 
 It consists of engraved stainless steel sheets and an automatic puncher.
 Each sheet can store 12 recovery word, 6 per side.
 
+[Get a Steelwallet](https://shiftcrypto.shop/en/products/steelwallet-13/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
 ## How to set it up
 ### Step 1: Have your recovery words at hand.
 
