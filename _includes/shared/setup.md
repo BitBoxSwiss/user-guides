@@ -3,8 +3,7 @@
 In order to set up your {{include.product}} and create your first wallet you need to download the [BitBoxApp](https://shiftcrypto.ch/app/) for your computer or your Android smartphone (beta).
 
 
-[Download](https://shiftcrypto.ch/start/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-
+[Download](https://shiftcrypto.ch/start/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ## Launch the BitBoxApp
 
