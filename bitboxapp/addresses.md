@@ -17,15 +17,16 @@ parent: BitBoxApp
 {:toc}
 
 ---
-![alt text]({% link assets/images/BitBoxApp/app_settings1.png %})
 
-Since version 4.0.0 of the BitBox Desktop App it supports three Bitcoin transaction formats:
+The BitBox Desktop App it supports three Bitcoin transaction formats:
 * Legacy — referred to as “Bitcoin Legacy” in the app
 * Segwit — referred to as “Bitcoin” in the app
 * Bech32 — referred to as “Bitcoin: bech32” in the app
 
 
 **Info:** If you have upgraded the desktop app from an older version, your bitcoin will appear in the “Bitcoin Legacy” account.
+
+
 
 ## Legacy format
 This account is based on the old transaction format. While upgrading your desktop app, your bitcoin balance and transaction history will be visible here. Now that network fees are relatively low, we recommend moving your bitcoin to the Segwit account at your earliest convenience.
@@ -38,4 +39,7 @@ In order to reduce your future transaction fees and support the bitcoin network,
 ## Bech32 format
 This is a newer version of the SegWit address format which incurs even lower network fees. Unfortunately it is not yet widely supported so some wallets/services might not let you send to a bech32 address. Its addresses always start with “bc1”. You can receive bitcoin to your Bech32 account from other wallets and services that support Bech32, and you can send bitcoin from your Bech32 account to any address. You can track the progress of Bech32 adoption at bitcoin.it/wiki/Bech32_adoption. Bech32 is not visible in the desktop app by default, to activate it go to the Settings in the lower left corner.
 
-**Original post:** [https://medium.com/shiftcrypto/bitbox-desktop-app-4-0-0-a-look-at-bitcoin-addressing-segwit-bech32-and-legacy-abcd788a684b](https://medium.com/shiftcrypto/bitbox-desktop-app-4-0-0-a-look-at-bitcoin-addressing-segwit-bech32-and-legacy-abcd788a684b)
+
+## Unified accounts (since v4.20.0)
+Since version 4.20.0 the BitBoxApp unifies the three different Bitcoin account types into one account.
+If you want to return to the old behaviour, where each script type is a seperate account go to the BitBoxApp settings and enable "Separate accounts by address type (legacy behavior)".
