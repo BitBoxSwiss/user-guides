@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Transactions
-nav_order: 3
+nav_order: 1
 has_children: false
 parent: BitBoxApp
 ---

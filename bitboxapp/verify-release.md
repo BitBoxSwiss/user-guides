@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Verify release
-nav_order: 5
+nav_order: 8
 has_children: false
 parent: BitBoxApp
 ---

@@ -17,4 +17,4 @@ grand_parent: BitBox01
 {:toc}
 
 ---
-{% include shared/history.md product="BitBox01" %}
+{% include shared/history.md %}
