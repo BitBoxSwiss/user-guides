@@ -33,3 +33,8 @@ If you want to see further details about a transaction you can click on the "det
 Clicking that will open a pop-up and show you additional transaction details.
 
 ![alt text]({% link assets/images/BitBox_history/transaction_details.png %})
+
+## Transaction notes
+The BitBoxApp allows you to store a note for each transaction. In order to add note to a transaction you have two options:
+- When making an outgoing transaction: Fill out the “Note” while making the transaction.
+- On the transaction history page: Click on the transaction in order to open the transaction details. Then click the “Note” field and enter your note. When done click the save symbol. 
