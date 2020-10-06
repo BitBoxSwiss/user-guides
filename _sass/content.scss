@@ -17,6 +17,33 @@
   ul,
   ol {
     padding-left: 1.5em;
+
+    li {
+      margin: .5em 0;
+      @include mq(md) {
+        margin: .25em 0;
+      }
+      a {
+        display: inline-block;
+        margin: -.85em 0;
+        padding: .5em 0;
+        @include mq(md) {
+          margin: -.25em 0 -.6em 0;
+          padding: .25em 0;
+        }
+        &:not([class]) {
+          background-image: none;
+          background-repeat: no-repeat;
+          text-decoration: underline;
+          text-decoration-color: #eeebee;
+          text-underline-position: under;
+
+          &:hover {
+            background-image: none;
+          }
+        }
+      }
+    }
   }
 
   ol {

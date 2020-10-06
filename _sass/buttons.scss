@@ -116,3 +116,27 @@
 .btn-green {
   @include btn-color($white, $green-100);
 }
+
+.menu-button {
+  align-items: center;
+  appearance: none;
+  background: transparent;
+  border: 0;
+  color: $nav-child-link-color;
+  display: flex;
+  height: 100%;
+  padding: $gutter-spacing-sm;
+  text-transform: uppercase;
+
+  @include mq(md) {
+    display: none;
+  }
+}
+
+#feedback-form {
+  background-color: #4d7a9e;
+  bottom: 1rem;
+  position: fixed;
+  right: 1rem;
+  z-index: 1000;
+}

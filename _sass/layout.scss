@@ -148,23 +148,6 @@
   @include fs-6;
 }
 
-
-.menu-button {
-  appearance: none;
-  display: flex;
-  height: 100%;
-  padding: $gutter-spacing-sm;
-  align-items: center;
-  color: $link-color;
-  text-transform: uppercase;
-  background: transparent;
-  border: 0;
-
-  @include mq(md) {
-    display: none;
-  }
-}
-
 // stylelint-disable selector-max-type
 
 body {
