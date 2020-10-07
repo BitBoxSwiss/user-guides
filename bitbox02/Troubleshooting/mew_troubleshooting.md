@@ -30,7 +30,7 @@ If you are having issues using MyEtherWallet with the BitBox02, please take a lo
 ### Step 1: Install BitBoxBridge
 To use your BitBox02 with web wallets such as MyEtherWallet, you need to download and install the BitBoxBridge. The BitBoxBridge is a program that runs in the background and allows the BitBox02 to communicate with web based wallets.
 
-[Download BitBoxBridge](https://shiftcrypto.ch/start/)
+[Download BitBoxBridge](https://shiftcrypto.ch/download/#bridge)
 
 ### Step 2: Start using MyEtherWallet with the BitBox02
 - Go to [myetherwallet.com](https://www.myetherwallet.com/)
@@ -51,7 +51,7 @@ If MyEtherWallet shows you an error message, please see if you can find the erro
 
 | Error message| Proposed solution |
 |:-------------|:------------------|
-| BitBoxBridge not found | Please make you have downloaded and installed the [BitBoxBridge](https://shiftcrypto.ch/start/). If it is already installed, make sure it is running by following [these instructions](https://guides.shiftcrypto.ch/bitbox02/Troubleshooting/mew_troubleshooting/#issue-bitboxbridge-not-found).|
+| BitBoxBridge not found | Please make you have downloaded and installed the [BitBoxBridge](https://shiftcrypto.ch/download/#bridge). If it is already installed, make sure it is running by following [these instructions](https://guides.shiftcrypto.ch/bitbox02/Troubleshooting/mew_troubleshooting/#issue-bitboxbridge-not-found).|
 | Unlock BitBox02  | Unlock the BitBox02 by entering your password on the device|
 | Unexpected error | Disconnect and reconnect the BitBox02 and try again.  |
 | Action aborted by user  | You cancelled a process on the BitBox02. Try again.  |
@@ -69,7 +69,7 @@ If MyEtherWallet shows you an error message, please see if you can find the erro
 ### Issue: BitBoxBridge not found
 {: .no_toc }
 
-1. To use MyEtherWallet, you need to download and install the [BitBoxBridge](https://shiftcrypto.ch/start/)
+1. To use MyEtherWallet, you need to download and install the [BitBoxBridge](https://shiftcrypto.ch/download/#bridge)
 2. If BitBoxBridge is already installed, make sure service is running by visiting    `http://127.0.0.1:8178/` in your browser.
 If the bridge is running you should see something like:
 ```
