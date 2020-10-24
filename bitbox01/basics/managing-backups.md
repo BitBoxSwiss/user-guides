@@ -57,6 +57,8 @@ In order to access the "Legacy hidden wallet", first login to the BitBox01 using
 ## Creating a new backup
 If your backup was destroyed or you would just like to create another backup to store in a different location you can easily do that. All you need is a fresh microSD card which the new backup will be stored on.
 
+{% include shared/microSD.md %}
+
 ### Plug in the new microSD card and click "Manage Backups"
 {: .no_toc }
 ![alt text]({% link assets/images/BitBox01_random/bb01_device_settings1.png %})

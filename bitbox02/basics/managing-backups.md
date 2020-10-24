@@ -66,6 +66,8 @@ If that is the case please confirm on your BitBox02 and then click "OK" in the B
 ### Creating a new backup
 If your backup was destroyed or you would just like to create another backup to store in a different location you can easily do that. All you need is a fresh microSD card which the new backup will be stored on.
 
+{% include shared/microSD.md %}
+
 ### Plug in the new microSD card and click "Manage Backups"
 {: .no_toc }
 ![alt text]({% link assets/images/BitBox02_backups/backups1.png %})
