@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Device settings
+seo_title: BitBox02 - Device settings
 nav_order: 4
 has_children: false
 parent: Basic features
 grand_parent: BitBox02
+description: Learn more about the BitBox02 device settings.
 ---
 
 # {{page.grand_parent}}: {{page.title}}

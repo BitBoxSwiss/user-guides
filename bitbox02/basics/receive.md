@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Receiving payments
+seo_title: BitBox02 - How to receive a payment?
 nav_order: 1
 has_children: false
 parent: Basic features
 grand_parent: BitBox02
+description: Find out how to receive coins on your BitBox02 hardware wallet.
 ---
 
 # {{page.grand_parent}}: {{page.title}}

@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Privacy
+seo_title: BitBoxApp - Which details are shared with Shift company servers?
 nav_order: 5
 has_children: false
 parent: BitBoxApp
-
+description: Learn more about what data is shared with the Shift company servers when using the BitBoxApp without your own full node.
 ---
 
 # {{page.parent}}: {{page.title}}

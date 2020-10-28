@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Ethereum integration
+seo_title: BitBox01 - Ethereum integration
 nav_order: 1
 has_children: false
 parent: Other guides
 grand_parent: BitBox01
+description: This guide explains how to use your BitBox01 with the popular MyEtherWallet tool.
 ---
 # {{page.title}}
 {: .no_toc }

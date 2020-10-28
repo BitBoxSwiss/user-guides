@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Home
+title: BitBox Guides
+seo_title: BitBox Guides
 nav_order: 1
-description: "Shift Crypto product user guides"
+description: "The official product guides for BitBox products."
+nav_exclude: true
 ---
 Please select the product you would like to see the guides for or use the searchbar to search for a keyword:
 {: .fs-6 .fw-300 }

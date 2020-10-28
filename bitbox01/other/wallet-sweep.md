@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Sweep guide
+seo_title: BitBox01 - How to sweep my wallet?
 nav_order: 5
 has_children: false
 parent: Other guides
 grand_parent: BitBox01
+description: This guide explains how to sweep the coins in your BitBox01 wallet to another wallet. 
 ---
 # {{page.grand_parent}}: {{page.title}}
 {: .no_toc }

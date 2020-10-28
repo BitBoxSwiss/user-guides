@@ -1,9 +1,11 @@
 ---
 layout: default
 title: BitBoxApp
+seo_title: BitBoxApp - How to install the BitBoxApp?
 nav_order: 5
 nav_exclude: false
 has_children: true
+description: Find out how to install the BitBox for your operating system.
 ---
 
 # {{page.title}}

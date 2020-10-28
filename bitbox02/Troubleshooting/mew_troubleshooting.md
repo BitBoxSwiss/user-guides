@@ -1,10 +1,12 @@
 ---
 layout: default
 title: MyEtherWallet
+seo_title: BitBox02 - How to use a BitBox02 with MyEtherWallet?
 nav_order: 1
 has_children: false
 parent: Troubleshooting
 grand_parent: BitBox02
+description: Find out how to use your BitBox02 with the popular MyEtherWallet tool.
 ---
 
 # {{page.grand_parent}}: {{page.title}}
