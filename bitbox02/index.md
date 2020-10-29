@@ -1,8 +1,10 @@
 ---
 layout: default
 title: BitBox02
+seo_title: BitBox02 - Explore the product guides
 nav_order: 3
 has_children: true
+description: All products guides for the BitBox02 hardware wallet can be found here.
 ---
 # {{page.title}}
 {: .no_toc }

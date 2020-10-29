@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Address types
+seo_title: BitBoxApp - What are unified accounts and what are the different address types?
 nav_order: 2
 has_children: false
 parent: BitBoxApp
-
+description: Learn more about the different address formats available in the BitBoxApp.
 ---
 
 # {{page.parent}}: {{page.title}}

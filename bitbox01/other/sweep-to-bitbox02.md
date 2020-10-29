@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Sweep funds from BitBox01 to BitBox02
+seo_title: How to transfer my coins from a BitBox01 to BitBox02?
 nav_order: 4
 has_children: false
 parent: Other guides
 grand_parent: BitBox01
+description: This guide explains how to transfer the coins stored on your BitBox01 to a BitBox02 hardware wallet.
 ---
 # {{page.title}}
 {: .no_toc }

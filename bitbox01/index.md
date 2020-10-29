@@ -1,8 +1,10 @@
 ---
 layout: default
 title: BitBox01
+seo_title: BitBox01 - Product guides
 nav_order: 2
 has_children: true
+description: All products guides for the BitBox01 ("Digital BitBox") hardware wallet can be found here.
 ---
 
 # {{page.title}}

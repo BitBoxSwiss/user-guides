@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Full node support
+seo_title: BitBoxApp - Why should I run my own full node and how can I connect my BitBoxApp to it?
 nav_order: 4
 has_children: false
 parent: BitBoxApp
+description: Learn more about why running a full node is important and how you can connect your full node to your BitBoxApp.
 ---
 
 # {{page.parent}}: {{page.title}}
@@ -57,4 +59,4 @@ If you have Tor installed on your computer, you can access your own node remotel
 - Enable the proxy and confirm the proxy address.
   - If you are running the TOR deamon it probably is: `127.0.0.1:9050`
   - If you are running the TOR browser it probably is: `127.0.0.1:9150`
-- Then restart the BitBoxApp in order for the new settings to take effect. 
+- Then restart the BitBoxApp in order for the new settings to take effect.

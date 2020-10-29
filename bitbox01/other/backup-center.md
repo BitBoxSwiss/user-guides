@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Backup center (BitBox01 aka. Digital BitBox)
+seo_title: BitBox01 - Backup center
 nav_order: 3
 has_children: false
 parent: Other guides
 grand_parent: BitBox01
+description: Find out how to use the BitBox01 backup center. This tool should only be used if absolutely necessary.
 ---
 # {{page.title}}
 {: .no_toc }

@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Reproducible builds
+seo_title: BitBox02 - What are reproducible builds?
 parent: Advanced features
 grand_parent: BitBox02
 nav_order: 4
+description: Learn more about reproducible builds and why they are important.
 ---
 # {{page.grand_parent}}: {{page.title}}
 {: .no_toc }

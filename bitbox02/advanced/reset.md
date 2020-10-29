@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Reset device
+seo_title: BitBox02 - How to reset a BitBox02?
 nav_order: 5
 parent: Advanced features
 grand_parent: BitBox02
-
+description: Find out how to reset your BitBox02 hardware wallet.
 ---
 # {{page.grand_parent}}: {{page.title}}
 {: .no_toc }

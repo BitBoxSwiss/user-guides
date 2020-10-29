@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Optional passphrase
+seo_title: BitBox02 - How to use an optional passphrase?
 nav_order: 3
 parent: Advanced features
 grand_parent: BitBox02
+description: Learn about how to use the optional passphrase feature of your BitBox02
 ---
 
 # {{page.grand_parent}}: {{page.title}}

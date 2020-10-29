@@ -1,8 +1,10 @@
 ---
 layout: default
 title: Steelwallet
+seo_title: Steelwallet - How to setup a Steelwallet?
 nav_order: 5
 has_children: false
+description: Find out what a Steelwallet is and how to set it up.
 ---
 
 # {{page.title}}

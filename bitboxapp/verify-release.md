@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Verify release
+seo_title: BitBoxApp - How to verify a new BitBoxApp release?
 nav_order: 8
 has_children: false
 parent: BitBoxApp
+description: Find out how to verify a BitBoxApp release.
 ---
 
 # {{page.parent}}: {{page.title}}

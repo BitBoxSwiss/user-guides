@@ -1,9 +1,11 @@
 ---
 layout: default
 title: End-of-sale/life FAQs
+seo_title: BitBox01 - End-of-sale/life FAQs
 nav_order: 6
 has_children: false
 parent: BitBox01
+description: As of 12 November 2019, the BitBox01 is no longer available for purchase. If you are a BitBox01 owner, please read through the FAQs below.
 ---
 
 # BitBox01 end-of-sale/life FAQs

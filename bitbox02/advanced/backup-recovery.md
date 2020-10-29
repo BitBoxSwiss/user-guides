@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Backup recovery tool
+seo_title: BitBox02 - Backup recovery tool
 nav_order: 6
 has_children: false
 parent: Advanced features
 grand_parent: BitBox02
+description: Find out how to use the BitBox02 backup center. This tool should only be used if absolutely necessary.
 ---
 # {{page.title}}
 {: .no_toc }

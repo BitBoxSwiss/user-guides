@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Settings
+seo_title: BitBoxApp - How to customize the BitBoxApp?
 nav_order: 6
 has_children: false
 parent: BitBoxApp
-
+description: Find out how to customize the BitBoxApp to your needs.
 ---
 
 # {{page.parent}}: {{page.title}}

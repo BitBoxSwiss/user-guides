@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Touch sensors
+seo_title: BitBox02 - Touch sliders
 nav_order: 3
 has_children: false
 parent: Troubleshooting
 grand_parent: BitBox02
+description: Learn more about how the BitBox02 touch sensors work.
 ---
 
 # {{page.grand_parent}}: {{page.title}}

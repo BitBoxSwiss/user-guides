@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Coin control
+seo_title: BitBoxApp - What is coin control and how can I use it?
 nav_order: 3
 has_children: false
 parent: BitBoxApp
-
+description: Find out what coin control is and how to use it when making transactions.
 ---
 
 # {{page.parent}}: {{page.title}}

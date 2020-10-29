@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Gap limits
+seo_title: BitBoxApp - How to change the gap limits?
 nav_order: 7
 has_children: false
 parent: BitBoxApp
-
+description: Find out how to change the BitBoxApp gap limits.
 ---
 
 # {{page.parent}}: {{page.title}}

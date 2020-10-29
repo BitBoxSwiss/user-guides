@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Mobile app pairing
+seo_title: BitBox01 - Mobile app pairing
 nav_order: 1
 parent: Advanced features
 grand_parent: BitBox01
+description: Learn more about the BitBox01 mobile pairing.
 ---
 # {{page.grand_parent}}: {{page.title}}
 {: .no_toc }

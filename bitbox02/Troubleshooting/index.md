@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Troubleshooting
+seo_title: BitBox02 - Troubleshooting
 nav_order: 5
 has_children: true
 parent: BitBox02

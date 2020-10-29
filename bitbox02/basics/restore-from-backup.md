@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Restore from backup
+seo_title: BitBox02 - How to restore from a microSD card backup?
 nav_order: 6
 parent: Basic features
 grand_parent: BitBox02
+description: Find out how to restore your wallet from your microSD card.
 ---
 
 # {{page.grand_parent}}: {{page.title}}
@@ -16,7 +18,7 @@ grand_parent: BitBox02
 {:toc}
 ---
 
-In order to reset from a backup, your BitBox02 needs to be reset.
+In order to restore from a backup, your BitBox02 needs to be reset.
 
 ## Plug in the microSD card containing your backup and plug in the BitBox02
 In order to be able to restore from a backup, the microSD card containing the backup needs to be inserted. Once done, plug in your BitBox02 with the BitBoxApp open.

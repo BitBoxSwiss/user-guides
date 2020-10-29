@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Display recovery words
+seo_title: BitBox02 - How to display my wallet recovery words?
 nav_order: 2
 parent: Advanced features
 grand_parent: BitBox02
-
+description: Find out how to display the wallet recovery words on the display of your BitBox02.
 ---
 # {{page.grand_parent}}: {{page.title}}
 {: .no_toc }

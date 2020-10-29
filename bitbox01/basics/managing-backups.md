@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Managing backups
+seo_title: BitBox01 - Managing backups
 nav_order: 5
 has_children: false
 parent: Basic features
 grand_parent: BitBox01
+description: Find out how to manage wallet backups using your BitBox01.
 ---
 
 # {{page.grand_parent}}: {{page.title}}

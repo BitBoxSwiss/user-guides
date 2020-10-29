@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Restore from backup
+seo_title: BitBox01 - Restore from backup
 nav_order: 6
 parent: Basic features
 grand_parent: BitBox01
+description: Find out how to restore your BitBox01 wallet from your microSD card backup.
 ---
 
 # {{page.grand_parent}}: {{page.title}}

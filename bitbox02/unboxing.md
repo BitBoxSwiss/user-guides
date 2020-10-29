@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Unboxing
+seo_title: BitBox02 - Unboxing
 nav_order: 1
 has_children: false
 parent: BitBox02
+description: In this guide we will go through the BitBox02 unboxing.
 ---
 
 # {{page.parent}}: {{page.title}}

@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Extended public key
+seo_title: BitBoxApp - How to access my wallet extended public key?
 nav_order: 3
 has_children: false
 parent: BitBoxApp
-
+description: Find out how to access the extended public key of your BitBox02 wallet.
 ---
 
 # {{page.parent}}: {{page.title}}
