@@ -32,6 +32,10 @@ You will then see the first few characters of a receive address. In order to get
 ![alt text]({% link assets/images/BitBox02_receive/receive2.png %})
 
 The address will then be shown on your {{include.product}} and the BitBoxApp at the same time.
+
+### Change to compatible address (Segwit)
+If you are using an exchange or wallet that does not support native segwit (bc1...) addresses, click the "change to compatible address (Segwit)" button to get a standard segwit address with a leading 3...
+
 {% endif %}
 
 ## Copy or scan address
