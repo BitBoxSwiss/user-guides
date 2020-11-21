@@ -75,3 +75,10 @@ From now on you will be asked for a passphrase after every device unlock.
 
 ### Pro tip: hiding that you are using a passphrase
 If you don't want to be asked for your passphrase every time you unlock your BitBox02 you can click "Disable optional passphrase" at any time in the device settings. As no data about your passphrase is stored on the device (you need to backup your passphrase independently) nothing is deleted. If you want to use the passphrase-protected wallet again you can just "Enable optional passphrase" again and then use the same passphrase again to access that wallet.
+
+
+### Common questions
+1. **How long should a passphase be?**<br>
+Please see this great [blog post](https://blog.trezor.io/is-your-passphrase-strong-enough-d687f44c63af) by Trezor.
+2. **How long can a passphrase be?**<br>
+Up to 149 characters but a much shorter passphrase is sufficient, see the link above.
