@@ -20,3 +20,5 @@ description: Find out how to receive coins on your BitBox02 hardware wallet.
 
 ---
 {% include shared/receive.md product="BitBox02" %}
+
+{% include shared/pending_tx.md product="BitBox02" %}

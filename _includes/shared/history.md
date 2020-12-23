@@ -9,6 +9,7 @@ An incoming transaction will at first be pending. That means it is not confirmed
 
 ![alt text]({% link assets/images/BitBox_history/pending_incoming.png %})
 
+{% include shared/pending_tx.md product="BitBox02" %}
 
 ### Confirmed incoming transaction
 Once a formerly pending transaction has its first confirmation (i.e. it was included in a block) it is shown as a confirmed transaction and the transaction amount is added to your wallet balance.
@@ -21,6 +22,7 @@ An outgoing transaction will at first be pending. That means it is not confirmed
 
 ![alt text]({% link assets/images/BitBox_history/pending_outgoing.png  %})
 
+{% include shared/pending_tx.md product="BitBox02" %}
 
 ### Confirmed outgoing transaction
 Once a formerly pending transaction has its first confirmation (i.e. it was included in a block) it is shown as a confirmed transaction and the transaction amount is deducted from your wallet balance.
@@ -37,4 +39,4 @@ Clicking that will open a pop-up and show you additional transaction details.
 ## Transaction notes
 The BitBoxApp allows you to store a note for each transaction. In order to add note to a transaction you have two options:
 - When making an outgoing transaction: Fill out the “Note” while making the transaction.
-- On the transaction history page: Click on the transaction in order to open the transaction details. Then click the “Note” field and enter your note. When done click the save symbol. 
+- On the transaction history page: Click on the transaction in order to open the transaction details. Then click the “Note” field and enter your note. When done click the save symbol.

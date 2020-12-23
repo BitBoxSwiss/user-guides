@@ -21,3 +21,5 @@ description: Find out how to send coins from your BitBox02 hardware wallet.
 ---
 
 {% include shared/sending.md product="BitBox02" %}
+
+{% include shared/pending_tx.md product="BitBox02" %}
