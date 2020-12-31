@@ -29,48 +29,6 @@
         <p><strong>Using BitBox02 firmware version:</strong> <span id="firmware-version"> </span></p>
       </div>
     </div>
-    <div class="section" id="derivation_info">
-      <h2> Derivation information</h2>
-      <ul>
-        <li>The BitBox generates wallet addresses according to BIP32 and BIP44 specifications.</li>
-        <li>The BIP32 extended master private key is m.</li>
-        <li>BIP 44 specifies the following standard:</li>
-        <ul>
-          <li>m / purpose’ / coin_type’ / account’ / change / address_index</li>
-        </ul>
-      </ul>
-      <h3>Purpose field</h3>
-        <ul>
-          <li>Purpose is set as follows:</li>
-          <ul>
-            <li>Segwit (P2PSH) = 49’</li>
-            <li>Native Segwit (P2WPKH) = 84’</li>
-          </ul>
-        </ul>
-      <h3>Coin_type field</h3>
-        <ul>
-          <li>Coin_type is set in accordance to SLIP-44:</li>
-          <ul>
-            <li>Bitcoin = 0</li>
-            <li>Testnets = 1’</li>
-            <li>Litecoin = 2</li>
-          </ul>
-        </ul>
-      <h3>Account field</h3>
-        <ul>
-          <li>BitBoxApp currently only supports a single account, therefore wallets created via the BitBoxApp will use 0 for the account field.</li>
-          <li>Wallets created with other wallet software have a different account field number.</li>
-        </ul>
-      <h3>Change field</h3>
-        <ul>
-          <li>0 for normal receive addresses</li>
-          <li>1 for internally generated change addresses</li>
-        </ul>
-        <h3>Address field</h3>
-          <ul>
-            <li>Addresses are numbered from index 0 in sequentially increasing manner.</li>
-          </ul>
-    </div>
   </div>
 <script src="{% link assets/js/backup/get_backup_bundled_02.js %}"></script>
 </body>
