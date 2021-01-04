@@ -14,3 +14,5 @@ Please select the product you would like to see the guides for or use the search
 [Steelwallet]({% link steelwallet/index.md %}){: .btn .fs-5 .mx-2 }
 
 [BitBox01 aka. Digital BitBox]({% link bitbox01/index.md %}){: .btn .fs-5 .mx-2  }
+
+For general information regarding your order, click [here]({% link shop/index.md %})
