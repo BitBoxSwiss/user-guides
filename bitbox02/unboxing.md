@@ -32,7 +32,10 @@ Here are some photos of the packaging and a closeup of the gray pattern to help 
 
 Left: [BitBox02 multi edition](https://shiftcrypto.ch/bitbox02/), Right: [BitBox02 Bitcoin-only edition](https://shiftcrypto.ch/bitbox02/)
 
-Please note that our existing packaging is not a strong tamper-evident solution because it only requires a potential attacker to replicate the customized bag and re-package a potentially compromised device. However, it's still good practice is to check for any signs of tampering. We are working on a significantly more sophisticated tamper-evident packaging solution, called [BitBoxTep](https://tep.shiftcrypto.ch/).
+Please note that our existing packaging is not a strong tamper-evident solution
+because it only requires a potential attacker to replicate the customized bag
+and re-package a potentially compromised device. However, it's still good practice
+is to check for any signs of tampering.
 
 
 
