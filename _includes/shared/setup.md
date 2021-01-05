@@ -45,6 +45,20 @@ To do that just touch the {{include.product}} on the side that is closer to you.
 
 ![alt text]({% link assets/images/BitBox02_wizard/step1.png %})
 
+{% if include.product == "BitBox02" %}
+Once the orientation is selected, BitBox02 enables USB communication and the app
+performs an attestation check. An unsuccessful check results in a warning:
+
+![Failed attestation check]({% link assets/images/BitBoxApp/attestation-failed.png %})
+
+If, after re-plugging as instructed, the issue persists, please contact
+support@shiftcrypto.ch. The check is designed to tell a genuine BitBox02 from clones
+and fake devices, provided the BitBoxApp software and the environment in which it is
+running has not been compromised. If unsure, use a different computer or another
+[supported environment](/bitboxapp/supported-devices/) where possible, and observe
+whether the failed attestation check warning is still present.
+{% endif %}
+
 ### Step 2: Confirm pairing code
 {: .no_toc }
 All information that is exchanged between your computer and the {{include.product}} is encrypted. In order to make sure that there is no man-in-the-middle attack, we need to ask you to confirm that the code on in the BitBoxApp and the code on your {{include.product}} are identical.
