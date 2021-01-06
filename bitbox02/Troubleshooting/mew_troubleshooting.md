@@ -19,33 +19,61 @@ description: Find out how to use your BitBox02 with the popular MyEtherWallet to
 {:toc}
 
 ---
-
-If you are having issues using MyEtherWallet with the BitBox02, please take a look at the list below to find your specific issue and respective fix.
-
 ## Prerequisites
 - A BitBox02 Multi edition hardware wallet
 - The BitBox02 needs to be set up. If it isn't follow [this guide]({% link bitbox02/setup.md %})
 
 
 ## Getting started
+### Step 1: Setup the BitBox02 Multi
+If your BitBox02 is new, set up the device by downloading and installing the BitBoxApp and following the in-app instructions.
 
-### Step 1: Install BitBoxBridge
+[Download BitBoxApp](https://shiftcrypto.ch/download){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+
+### Step 2: Install BitBoxBridge
 To use your BitBox02 with web wallets such as MyEtherWallet, you need to download and install the BitBoxBridge. The BitBoxBridge is a program that runs in the background and allows the BitBox02 to communicate with web based wallets.
 
-[Download BitBoxBridge](https://shiftcrypto.ch/download/#bridge)
+[Download BitBoxBridge](https://shiftcrypto.ch/download/#bridge){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-### Step 2: Start using MyEtherWallet with the BitBox02
-- Go to [myetherwallet.com](https://www.myetherwallet.com/)
-- Click "Access My Wallet" then choose "Hardware".
-- Select "BitBox" and then "BitBox02".
-- Unlock your BitBox02 by entering the password on the device.
-- When using MyEtherWallet for the first time, you will be prompted with a pairing code. Confirm on your BitBox02 that the pairing code matches and select "continue".
-- Now you are ready to start using MyEtherWallet!
+### Step 3: Start using MyEtherWallet with the BitBox02
+1. Go to <a href="https://www.myetherwallet.com/" target="_blank">myetherwallet.com</a>
+2. Click "Access My Wallet" then choose "Hardware".
+3. Select "BitBox" and then "BitBox02".
+4. Unlock your BitBox02 by entering the password on the device.
+5. When using MyEtherWallet for the first time, you will be prompted with a pairing code.
+6. Confirm on your BitBox02 that the pairing code matches and select "Continue".
+7. Now select the account/address you want to use, accept the terms and click "Access My Wallet".
+8. Done! You can now use your BitBox02 to send, receive and interact with Ethereum and ERC-20 tokens.
 
 **Note:** You will be prompted with a pairing code whenever you use the BitBox02 with a new browser or computer.
 
+**Note:** When selecting the account/address during step 7: The first account is identical to the one used by the BitBoxApp
 
 > **Safety tip:** Always check the URL of  MyEtherWallet. The URL should be https://www.myetherwallet.com/
+
+
+## Receiving & Sending
+### Receiving ETH and ERC-20 tokens
+To verify your receive address on your BitBox02 display click the highlighted button in the upper-right corner of MyEtherWallet:
+
+![alt text]({% link assets/images/MEW/mew_display_address.png %}){:height="300" width="300"}
+
+Then confirm the address on your BitBox02.
+
+### Sending ETH and ERC-20 tokens
+1. To send ETH and ERC-20 tokens, select the button that says ‘Send Transaction’, or find this section in the ‘Send’ category from the left menu.
+2. Then choose if you want to send ETH or an ERC-20 token. You can search for a token.
+3. Enter the amount.
+4. Enter the address you want to send to.
+5. Optionally edit the transaction fee settings.
+6. Click "Send Transaction".
+7. Then review the transaction details on the display of your BitBox02.
+8. If all is correct, confirm the transaction on your BitBox02, abort otherwise.
+9. Your transaction has been posted! Copy your transaction hash for your records.
+
+Check your transaction hash on <a href="https://etherscan.io/" target="_blank">Etherscan</a> to make sure everything went through properly.
+
 
 
 ## Troubleshooting
@@ -123,10 +151,3 @@ bitbox-bridge.service - Shiftcrypto BitBoxBridge
 ```
 2. To stop the bridge run: `$ sudo systemctl stop bitbox-bridge`
 3. To re-start the bridge run: `$ sudo systemctl start bitbox-bridge`
-
-
-
-
-
-
-If you are still experiencing issues, please contact support@shiftcrypto.ch
