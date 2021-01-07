@@ -47,8 +47,4 @@ EOL (end-of-life) for the BitBox01 means that we will stop actively releasing up
 
 Yes. We’re offering all BitBox01 customers a loyalty discount to move over to the BitBox02. The discount code will be available as an in-app notification included in the BitBoxApp (from version 4.15.0).
 
-
-### I’m still confused, can I talk to someone?
-
-If you have any questions, please  {% include contact-small.html %}
-We will still offer customer support to BitBox01 users after November 2020.
+[Get a BitBox02](https://shiftcrypto.ch/bitbox02/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
