@@ -42,7 +42,9 @@ Mistyping the passphrase will generate a completely new wallet. There is no such
 
 If you enter an empty passphrase (no passphrase at all), your BitBox02 will proceed exactly as if the passphrase feature had not been activated at all and derives a wallet from only your recovery words which are stored on the device.
 
-> **In order to restore a wallet that used a passphrase you will need your backup (stored on microSD card) AND the passphrase you used for that wallet.**
+> In order to restore a wallet that used a passphrase you will need your backup (stored on microSD card) AND the passphrase you used for that wallet.
+
+> A passphrase is case sensitive!
 
 
 ### Benefits of using a passphrase
