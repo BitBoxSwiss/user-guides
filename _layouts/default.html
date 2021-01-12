@@ -64,6 +64,11 @@ layout: table_wrappers
             {% else %}
               {{ content }}
             {% endif %}
+            {% if page.url contains 'bitbox01' %}
+            <div style="background-color: #eb5757; padding: 0.5rem 0.5rem 0.2rem 0.5rem; color: white; border-radius: 0.5rem">
+              <p>Since Nov 2019 we stopped selling the BitBox01. Customer and in-app support will continue for the foreseeable future, but we advise BitBox01 owners to move their funds to a different hardware wallet such as the BitBox02. We offer a 25% loyalty discount to move over to the BitBox02. <a style="color: white" href="{% link bitbox01/eol-faqs.md %}">For more information see here</a></p>
+            </div>
+            {% endif %}
 
           {% if page.has_children == true and page.has_toc != false %}
             <hr>
