@@ -17,4 +17,4 @@ It's only possible to change the device password by resetting your BitBox02 and 
 
 Before you reset your BitBox02, it's **important** that you [verify your backup]({% link bitbox02/basics/managing-backups.md %}#verifying-a-backup).
 
-Once you have successfully verified your wallet backup, you can [reset]({% link bitbox02/advanced/reset.md %}) your BitBox02 and [restore your wallet]({% link bitbox02/basics/restore-from-backup.md %}).
+Once you have successfully verified your wallet backup, you can [reset]({% link bitbox02/advanced/reset.md %}) your BitBox02 and [restore your wallet]({% link bitbox02/basics/import-wallet.md %}).

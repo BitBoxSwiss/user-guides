@@ -60,7 +60,7 @@ Now you are asked to choose if you want to create a new wallet or restore an exi
 
 ![alt text]({% link assets/images/BitBox02_wizard/step3.png %})
 
-- A) If you already used a {{include.product}} before or you want to restore a wallet from recovery words (mnemonic seed phrase), [click here]({% link bitbox02/basics/restore-from-backup.md %})
+- A) If you already used a {{include.product}} before or you want to restore a wallet from recovery words (mnemonic seed phrase), [click here]({% link bitbox02/basics/import-wallet.md %})
 
 - B) If this is the first time you create a wallet, choose "Create Wallet" and continue reading this guide.
 
