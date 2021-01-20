@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Blockchain Forks
-nav_order: 1
 has_children: false
-parent: Other
-
+nav_order: 7
+has_children: false
+parent: BitBox01
 ---
 
 # {{page.parent}}: {{page.title}}
