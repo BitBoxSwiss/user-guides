@@ -56,9 +56,6 @@ Your BitBox02 should still be plugged in and unlocked.
 
 Repeat steps 3-10 with real amounts. You can split it up into multiple transactions if you feel uncomfortable sending all in one transaction. Please confirm that it was received on the BitBox02 after each transaction.
 
-If you can't see all your test transactions after a few minutes:
-
-{% include contact.html url=page.url %}
 
 
 ## Send coins from BitBox01 to BitBox02 (with hidden wallet)
@@ -98,9 +95,6 @@ Now we need to do two wallet sweeps.
 
 >Repeat steps 3-10 with real amounts. You can split it up into multiple transactions if you feel uncomfortable sending all in one transaction. Please confirm that it was received on the BitBox02 after each transaction.
 
-If you can't see all your test transactions after a few minutes:
-
-{% include contact.html url=page.url %}
 
 
 ### Hidden-wallet sweep
@@ -129,9 +123,6 @@ If you can't see all your test transactions after a few minutes:
 
 >Repeat steps 6-13 with real amounts. You can split it up into multiple transactions if you feel uncomfortable sending all in one transaction. Please confirm that it was received on the BitBox02 after each transaction.
 
-If you can't see all your test transactions after a few minutes:
-
-{% include contact.html url=page.url %}
 
 
 ## Use your BitBox02
