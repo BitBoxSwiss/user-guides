@@ -92,7 +92,7 @@ If MyEtherWallet shows you an error message, please see if you can find the erro
 | Expected exactly one BitBox02. No or more than one BitBox02 detected. | Please make sure you only have one BitBox02 plugged in at a time. |
 | Pairing rejected on device, please try again | Reconnect the BitBox02 and accept the pairing code by clicking the “check mark” on the BitBox02 when prompted. |
 | Your BitBox02 is busy. Please close all other wallets and try again. | Close the BitBoxApp. Close any other wallets you may have open using the BitBox02, such as Electrum. |
-| Device attestation failed | Reconnect BitBox02 and try again. If you keep getting the warning. Please contact support@shiftcrypto.ch |
+| Device attestation failed | Reconnect BitBox02 and try again. |
 | Unsupported BitBox device | MyEtherWallet only supports the BitBox02 Multi edition or the BitBox01. If you are using a BitBox02 Bitcoin-only edition, it is not compatible with MyEtherWallet because it does not support Ethereum. |
 | Plug in BitBox02 and choose screen orientation by tapping one of the sides. | Make sure BitBox02 is inserted into USB and powered. Choose orientation of BitBox02 by tapping one of the sides of the device. USB connection is only established after you choose the screen orientation. |
 

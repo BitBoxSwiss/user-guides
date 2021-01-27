@@ -15,13 +15,13 @@ description: In this guide we will go through the BitBox02 unboxing.
 
 ## Thank you
 
-for buying a Shift Crypto product. We hope you will enjoy using it. If you can't find what you're looking for in this guide, please don't hesitate to {% include contact-small.html url=page.url %}
+for buying a Shift Crypto product. We hope you will enjoy using it.
 
 ---
 
 ## Packaging
 
-When you receive your device please inspect that the plastic bag is intact and does not appear damaged. If the vacuum bag is damaged or cut open, looks different or if the gray pattern is missing on one of the four sides, do not use your device and {% include contact-small.html %}
+When you receive your device please inspect that the plastic bag is intact and does not appear damaged. If the vacuum bag is damaged or cut open, looks different or if the gray pattern is missing on one of the four sides, do not use your device and contact us. 
 Here are some photos of the packaging and a closeup of the gray pattern to help you check:
 
 

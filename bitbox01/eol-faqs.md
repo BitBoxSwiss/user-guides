@@ -24,7 +24,7 @@ For more information, please read our [blog post](https://medium.com/shiftcrypto
 
 ### Can I continue to use my BitBox01?
 
-Yes. We will continue to support the BitBox01 in our app and through <a href="mailto:support@shiftcrypto.ch">support@shiftcrypto.ch</a> for the foreseeable future. To avoid unnecessary hassle after the end of support date, we recommend moving over to a BitBox02 before November 2020.
+Yes. We will continue to support the BitBox01 in our app and via customer support for the foreseeable future. To avoid unnecessary hassle after the end of support date, we recommend moving over to a BitBox02 before November 2020.
 
 [How to migrate funds from BitBox01 to BitBox02](https://guides.shiftcrypto.ch/bitbox01/other/sweep-to-bitbox02/).
 
