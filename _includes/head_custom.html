@@ -10,20 +10,3 @@
   tap('create', '11449-8eb285', { integration: "javascript" });
   tap('detect');
 </script>
-
-<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-
-<button type="button" class="btn" id="feedback-form">Contact</button>
-
-<script id="zammad_form_script" src="https://shiftcrypto.support/assets/form/form.js"></script>
-
-<script>
-$(function() {
-  $('#feedback-form').ZammadForm({
-    messageTitle: 'Ticket via form on guides.shiftcrypto.ch',
-    messageSubmit: 'Submit',
-    messageThankYou: 'Thank you for your inquiry (#%s)! We\'ll contact you as soon as possible.',
-    modal: true
-  });
-});
-</script>
