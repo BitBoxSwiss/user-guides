@@ -5,6 +5,7 @@ seo_title: Shop - General information
 nav_order: 1
 has_children: true
 description: All products guides for the BitBox01 ("Digital BitBox") hardware wallet can be found here.
+redirect_to: https://shiftcrypto.support/help/en-us/17-bitbox-shop
 ---
 
 # {{page.title}}

@@ -6,6 +6,7 @@ nav_order: 1
 has_children: false
 parent: BitBox Shop
 description: Latest updates on pre-order timelines
+redirect_to: https://shiftcrypto.support/help/en-us/17-bitbox-shop/37-my-order-shows-pre-order-what-does-that-mean
 ---
 
 # {{page.title}}
