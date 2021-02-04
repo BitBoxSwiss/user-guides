@@ -7,6 +7,7 @@ has_children: false
 parent: Basic features
 grand_parent: BitBox02
 description: Learn more about how to manage your wallet backups with your BitBox02.
+redirect_to: https://shiftcrypto.support/help/en-us/5-backup
 ---
 
 # {{page.grand_parent}}: {{page.title}}

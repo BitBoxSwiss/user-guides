@@ -6,6 +6,7 @@ nav_order: 3
 parent: Advanced features
 grand_parent: BitBox02
 description: Learn about how to use the optional passphrase feature of your BitBox02
+redirect_to: https://shiftcrypto.support/help/en-us/5-backup
 ---
 
 # {{page.grand_parent}}: {{page.title}}

@@ -5,6 +5,7 @@ seo_title: BitBox02 - Explore the product guides
 nav_order: 3
 has_children: true
 description: All products guides for the BitBox02 hardware wallet can be found here.
+redirect_to: https://shiftcrypto.support/help/en-us/1-bitbox02
 ---
 # {{page.title}}
 {: .no_toc }

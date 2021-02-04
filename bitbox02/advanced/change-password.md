@@ -7,6 +7,7 @@ has_children: false
 parent: Advanced features
 grand_parent: BitBox02
 description: Learn how to change the BitBox02 device password.
+redirect_to: https://shiftcrypto.support/help/en-us/4-advanced
 ---
 # {{page.title}}
 {: .no_toc }

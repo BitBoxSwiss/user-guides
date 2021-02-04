@@ -6,6 +6,7 @@ nav_order: 6
 parent: Basic features
 grand_parent: BitBox02
 description: Find out how to import a wallet onto the BitBox02.
+redirect_to: https://shiftcrypto.support/help/en-us/5-backup
 ---
 
 # {{page.grand_parent}}: {{page.title}}

@@ -7,6 +7,7 @@ has_children: false
 parent: Troubleshooting
 grand_parent: BitBox02
 description: Find out how to use your BitBox02 with the popular MyEtherWallet tool.
+redirect_to: https://shiftcrypto.support/help/en-us/7-myetherwallet
 ---
 
 # {{page.grand_parent}}: {{page.title}}

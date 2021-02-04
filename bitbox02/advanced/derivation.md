@@ -7,6 +7,7 @@ has_children: false
 parent: Advanced features
 grand_parent: BitBox02
 description: Find out what derivation scheme the BitBox02 uses.
+redirect_to: https://shiftcrypto.support/help/en-us/5-backup
 ---
 # {{page.title}}
 {: .no_toc }

@@ -6,6 +6,7 @@ nav_order: 3
 has_children: true
 parent: BitBox02
 description: Learn about the basic features of your BitBox02
+redirect_to: https://shiftcrypto.support/help/en-us/3-basics
 ---
 
 # {{page.parent}}: {{page.title}}

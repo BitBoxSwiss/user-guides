@@ -6,8 +6,8 @@ nav_order: 2
 has_children: false
 parent: Troubleshooting
 grand_parent: BitBox02
-redirect_from: /bitbox02/Troubleshooting/mew_troubleshooting2/
 description: Read this guide if you are having USB issues with your BitBox02.
+redirect_to: https://shiftcrypto.support/help/en-us/9-troubleshooting
 ---
 
 # {{page.grand_parent}}: {{page.title}}

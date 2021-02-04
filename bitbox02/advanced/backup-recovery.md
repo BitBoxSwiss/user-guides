@@ -7,6 +7,7 @@ has_children: false
 parent: Advanced features
 grand_parent: BitBox02
 description: Find out how to use the BitBox02 backup center. This tool should only be used if absolutely necessary.
+redirect_to: https://shiftcrypto.support/help/en-us/5-backup
 ---
 # {{page.title}}
 {: .no_toc }

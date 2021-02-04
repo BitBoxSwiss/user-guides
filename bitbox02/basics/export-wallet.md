@@ -6,6 +6,7 @@ nav_order: 7
 parent: Basic features
 grand_parent: BitBox02
 description: Find out how to export a BitBox02 wallet into a third-party hardware wallet.
+redirect_to: https://shiftcrypto.support/help/en-us/5-backup
 ---
 
 # {{page.grand_parent}}: {{page.title}}

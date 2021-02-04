@@ -7,6 +7,7 @@ has_children: false
 parent: Basic features
 grand_parent: BitBox02
 description: Find out how to send coins from your BitBox02 hardware wallet.
+redirect_to: https://shiftcrypto.support/help/en-us/3-basics
 ---
 
 # {{page.grand_parent}}: {{page.title}}

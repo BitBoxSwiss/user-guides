@@ -6,6 +6,7 @@ nav_order: 1
 has_children: false
 parent: BitBox02
 description: In this guide we will go through the BitBox02 unboxing.
+redirect_to: https://shiftcrypto.support/help/en-us/3-basics
 ---
 
 # {{page.parent}}: {{page.title}}

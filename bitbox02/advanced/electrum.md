@@ -7,6 +7,7 @@ has_children: false
 parent: Advanced features
 grand_parent: BitBox02
 description: Learn about how you can use your BitBox02 with Electrum wallet.
+redirect_to: https://shiftcrypto.support/help/en-us/8-electrum
 ---
 # {{page.title}}
 {: .no_toc }

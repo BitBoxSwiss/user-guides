@@ -6,6 +6,7 @@ nav_order: 2
 parent: Advanced features
 grand_parent: BitBox02
 description: Find out how to display the wallet recovery words on the display of your BitBox02.
+redirect_to: https://shiftcrypto.support/help/en-us/5-backup
 ---
 # {{page.grand_parent}}: {{page.title}}
 {: .no_toc }

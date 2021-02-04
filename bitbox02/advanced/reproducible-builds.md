@@ -6,6 +6,7 @@ parent: Advanced features
 grand_parent: BitBox02
 nav_order: 4
 description: Learn more about reproducible builds and why they are important.
+redirect_to: https://shiftcrypto.support/help/en-us/4-advanced
 ---
 # {{page.grand_parent}}: {{page.title}}
 {: .no_toc }

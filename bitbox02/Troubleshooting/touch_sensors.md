@@ -7,6 +7,7 @@ has_children: false
 parent: Troubleshooting
 grand_parent: BitBox02
 description: Learn more about how the BitBox02 touch sensors work.
+redirect_to: https://shiftcrypto.support/help/en-us/9-troubleshooting
 ---
 
 # {{page.grand_parent}}: {{page.title}}
