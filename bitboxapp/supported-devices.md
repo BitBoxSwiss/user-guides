@@ -6,6 +6,7 @@ nav_order: 9
 has_children: false
 parent: BitBoxApp
 description: Find out how to verify a BitBoxApp release.
+redirect_to: https://shiftcrypto.support/help/en-us/10-download-installation
 ---
 
 # {{page.parent}}: {{page.title}}

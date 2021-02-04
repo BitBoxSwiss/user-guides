@@ -6,6 +6,7 @@ nav_order: 6
 has_children: false
 parent: BitBoxApp
 description: Find out how to customize the BitBoxApp to your needs.
+redirect_to: https://shiftcrypto.support/help/en-us/2-bitboxapp
 ---
 
 # {{page.parent}}: {{page.title}}

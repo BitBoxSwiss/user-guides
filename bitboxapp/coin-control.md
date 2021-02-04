@@ -6,6 +6,7 @@ nav_order: 3
 has_children: false
 parent: BitBoxApp
 description: Find out what coin control is and how to use it when making transactions.
+redirect_to: https://shiftcrypto.support/help/en-us/14-privacy
 ---
 
 # {{page.parent}}: {{page.title}}

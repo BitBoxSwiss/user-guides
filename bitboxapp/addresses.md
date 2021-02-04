@@ -6,6 +6,7 @@ nav_order: 2
 has_children: false
 parent: BitBoxApp
 description: Learn more about the different address formats available in the BitBoxApp.
+redirect_to: https://shiftcrypto.support/help/en-us/13-adresses
 ---
 
 # {{page.parent}}: {{page.title}}

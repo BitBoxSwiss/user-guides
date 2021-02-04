@@ -6,6 +6,7 @@ nav_order: 4
 has_children: false
 parent: BitBoxApp
 description: Learn more about why running a full node is important and how you can connect your full node to your BitBoxApp.
+redirect_to: https://shiftcrypto.support/help/en-us/14-privacy
 ---
 
 # {{page.parent}}: {{page.title}}

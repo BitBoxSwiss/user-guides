@@ -6,6 +6,7 @@ nav_order: 7
 has_children: false
 parent: BitBoxApp
 description: Find out how to change the BitBoxApp gap limits.
+redirect_to: https://shiftcrypto.support/help/en-us/15-other
 ---
 
 # {{page.parent}}: {{page.title}}

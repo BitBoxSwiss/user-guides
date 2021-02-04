@@ -6,6 +6,7 @@ nav_order: 5
 nav_exclude: false
 has_children: true
 description: Find out how to install the BitBox for your operating system.
+redirect_to: https://shiftcrypto.support/help/en-us/2-bitboxapp
 ---
 
 # {{page.title}}

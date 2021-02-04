@@ -6,6 +6,7 @@ nav_order: 5
 has_children: false
 parent: BitBoxApp
 description: Learn more about what data is shared with the Shift company servers when using the BitBoxApp without your own full node.
+redirect_to: https://shiftcrypto.support/help/en-us/14-privacy
 ---
 
 # {{page.parent}}: {{page.title}}

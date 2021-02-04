@@ -6,6 +6,7 @@ nav_order: 3
 has_children: false
 parent: BitBoxApp
 description: Find out how to access the extended public key of your BitBox02 wallet.
+redirect_to: https://shiftcrypto.support/help/en-us/13-adresses
 ---
 
 # {{page.parent}}: {{page.title}}

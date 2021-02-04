@@ -6,6 +6,7 @@ nav_order: 8
 has_children: false
 parent: BitBoxApp
 description: Find out how to verify a BitBoxApp release.
+redirect_to: https://github.com/digitalbitbox/bitbox-wallet-app/releases/
 ---
 
 # {{page.parent}}: {{page.title}}

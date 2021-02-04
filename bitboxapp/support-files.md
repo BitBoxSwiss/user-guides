@@ -6,6 +6,7 @@ nav_order: 10
 has_children: false
 parent: BitBoxApp
 description: Find out how to access useful support information.
+redirect_to: https://shiftcrypto.support/help/en-us/15-other
 ---
 
 # {{page.parent}}: {{page.title}}
