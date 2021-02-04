@@ -5,6 +5,7 @@ seo_title: Steelwallet - How to setup a Steelwallet?
 nav_order: 5
 has_children: false
 description: Find out what a Steelwallet is and how to set it up.
+redirect_to: https://shiftcrypto.support/help/en-us/22-steelwallet
 ---
 
 # {{page.title}}
