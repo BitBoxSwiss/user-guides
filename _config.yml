@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: BitBox Guides
-description: Find user guides for your BitBox product
+description: Find user guides for the BitBox01
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://guides.shiftcrypto.ch" # the base hostname & protocol for your site, e.g. http://example.com
-support: "(mailto:support@shiftcrypto.ch)"
+support: "(mailto:support@bitbox.swiss)"
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
@@ -32,7 +32,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Back to shiftcrypto.ch": "https://shiftcrypto.ch"
+  "Back to bitbox.swiss": "https://bitbox.swiss"
 
 # Footer content appears at the bottom of every page's main content
 footer_content: ""

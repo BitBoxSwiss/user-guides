@@ -39,7 +39,7 @@ You will then be asked to input the recovery password for that wallet backup fil
 
 - **If you input a different recovery password a different wallet will be generated which therefore does not match the wallet you are currently using on your BitBox01 and the app will tell you: "Backup does NOT match the wallet."**
 
-**Info:** There is no such thing as an incorrect recovery password. Your recovery password is combined with your wallet backup file and a wallet is generated from that. If you input a different recovery password (not the one you used when you generated your wallet) it will still generate a valid wallet, however that wallet won't contain your coins. You can think of the recovery password like a "passphrase". For more information [check this guide]({% link bitbox02/advanced/passphrase.md %})
+**Info:** There is no such thing as an incorrect recovery password. Your recovery password is combined with your wallet backup file and a wallet is generated from that. If you input a different recovery password (not the one you used when you generated your wallet) it will still generate a valid wallet, however that wallet won't contain your coins. You can think of the recovery password like a "passphrase".
 
 ### Hidden wallet
 In order to verify a hidden wallet backup select the backup file, then click "Check Backup".
