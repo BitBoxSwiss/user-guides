@@ -27,8 +27,7 @@ This guide demonstrates how to sweep all funds from a BitBox01 (aka. Digital Bit
 
 
 ## Setup your BitBox02
-If you have not yet set up your BitBox02, please follow
-[this guide]({% link bitbox02/setup.md %}) to do so.
+First follow the in app setup wizard of the latest BitBoxApp to set up your BitBox02.
 
 
 ### Did you use the hidden wallet option on the BitBox01 (aka. Digital BitBox) and you want to continue using it?
@@ -39,7 +38,7 @@ If you have not yet set up your BitBox02, please follow
 
 ## Send coins from BitBox01 to BitBox02 (no hidden wallet)
 Your BitBox02 should still be plugged in and unlocked.
-1. [Verify and copy a receive address from your BitBox02]({% link bitbox02/basics/receive.md %}) for each coin you want to sweep (i.e. Bitcoin, Litecoin) and paste it into a text file. Make sure you carefully check that it has been copied correctly.
+1. Verify and copy a receive address from your BitBox02 and paste it into a text file. Make sure you carefully check that it has been copied correctly.
 >The receive address is where your will send your funds to from the BitBox01 to the BitBox02. Note that for Bitcoin, you may have had different style bitcoin addresses in your old wallet that each held funds. These funds can all be sent to the same (default) style receive address you just copied and stored.
 
 2. Once you have the receive addresses copied into a text file and double checked you can unplug your BitBox02.
@@ -50,7 +49,7 @@ Your BitBox02 should still be plugged in and unlocked.
 7. Repeat steps 4-6 for all currency and types (e.g. Bitcoin has multiple address types, you can select all of them in the BitBoxApp settings) that you want to sweep form your BitBox01 to BitBox02.
 8. Remember how many test transactions you made.
 9. Unplug your BitBox01, plug in your BitBox02, unlock it with your BitBox02 device password.
-10. Check that all test transactions arrived on your BitBox02 ([you might need to enable more coins/types in the BitBoxApp settings]({%link bitboxapp/settings.md %}#troubleshooting-my-coins-are-gone-after-bitboxapp-update)).
+10. Check that all test transactions arrived on your BitBox02 (you might need to enable more coins/types in the BitBoxApp settings).
 
 **If that is the case:**
 
@@ -71,14 +70,14 @@ C) If you used the hidden-wallet feature and you want to continue using it on yo
 ### Prerequisites
 * Your BitBox02 should still be plugged in and unlocked.
 
-* "Mnemonic Passphrase" should be enabled on your BitBox02, see [here]({% link bitbox02/advanced/passphrase.md %})
+* "Mnemonic Passphrase" should be enabled on your BitBox02.
 
 Now we need to do two wallet sweeps.
 * Standard wallet sweep
 * Hidden wallet sweep
 
 ### Standard wallet sweep
-1. [Verify and copy a receive address from your BitBox02]({% link bitbox02/basics/receive.md %}) for each coin you want to sweep (i.e. Bitcoin, Litecoin) and paste it into a text file, note down that this address is from the standard wallet. Make sure you carefully check that it has been copied correctly.
+1. Verify and copy a receive address from your BitBox02 for each coin you want to sweep (i.e. Bitcoin, Litecoin) and paste it into a text file, note down that this address is from the standard wallet. Make sure you carefully check that it has been copied correctly.
 > The receive address is where your will send your funds to from the BitBox01 to the BitBox02. Note that for Bitcoin, you may have had different style bitcoin addresses in your old wallet that each held funds. These funds can all be sent to the same (default) style receive address you just copied and stored.
 
 2. Once you have the receive addresses copied into a text file and double checked that it is correct you can unplug your BitBox02.
@@ -89,7 +88,7 @@ Now we need to do two wallet sweeps.
 7. Repeat steps 4-6 for all currency and types (e.g. Bitcoin has multiple address types, you can select all of them in the BitBoxApp settings) that you want to sweep form your BitBox01 to BitBox02.
 8. Remember how many test transactions you made.
 9. Unplug your BitBox01, plug in your BitBox02, unlock it with your BitBox02 device password.
-10. Check that all test transactions arrived on your BitBox02 ([you might need to enable more coins/types in the BitBoxApp settings]({%link bitboxapp/settings.md %}#troubleshooting-my-coins-are-gone-after-bitboxapp-update)).
+10. Check that all test transactions arrived on your BitBox02 (you might need to enable more coins/types in the BitBoxApp settings).
 
 **If that is the case:**
 
@@ -106,7 +105,7 @@ Now we need to do two wallet sweeps.
 >**Attention:** If you forget/lose this passphrase you will lose access to the coins in this wallet. Make sure to backup the passphrase properly.
 
 
-4. [Verify and copy a receive address from your BitBox02]({% link bitbox02/basics/receive.md %})  for each coin you want to sweep (i.e. Bitcoin, Litecoin) and paste it into a text file, note down that this address is from the hidden wallet. Make sure you carefully check that it has been copied correctly.
+4. Verify and copy a receive address from your BitBox02 for each coin you want to sweep (i.e. Bitcoin, Litecoin) and paste it into a text file, note down that this address is from the hidden wallet. Make sure you carefully check that it has been copied correctly.
 >The receive address is where your will send your funds to from the BitBox01 to the BitBox02. Note that for Bitcoin, you may have had different style bitcoin addresses in your old wallet that each held funds. These funds can all be sent to the same (default) style receive address you just copied and stored.
 
 5. Once you have the receive addresses copied into a text file and double checked you can unplug your BitBox02.
@@ -117,7 +116,7 @@ Now we need to do two wallet sweeps.
 10. Repeat steps 6-9 for all currency and types (e.g. Bitcoin has multiple address types, you can select all of them in the BitBoxApp settings) that you want to sweep form your BitBox01 to BitBox02.
 11. Remember how many test transactions you made.
 12. Unplug your BitBox01, plug in your BitBox02, unlock it with your BitBox02 device password.
-13. Check that all test transactions arrived on your BitBox02 ([you might need to enable more coins/types in the BitBoxApp settings]({%link bitboxapp/settings.md %}#troubleshooting-my-coins-are-gone-after-bitboxapp-update)).
+13. Check that all test transactions arrived on your BitBox02 (you might need to enable more coins/types in the BitBoxApp settings).
 
 **If that is the case:**
 
