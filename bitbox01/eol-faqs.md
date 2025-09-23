@@ -24,7 +24,7 @@ For more information, please read our [blog post](https://medium.com/shiftcrypto
 
 ### Can I continue to use my BitBox01?
 
-Yes. We will continue to support the BitBox01 in our app and via customer support for the foreseeable future. To avoid unnecessary hassle after the end of support date, we recommend moving over to a BitBox02 before November 2020.
+Theoretically yes, but we urgently recommend you to move your funds to a different hardware wallet such as the BitBox02 as soon as possible. Recovering your funds in the future could be much more complicated.
 
 [How to migrate funds from BitBox01 to BitBox02](https://guides.shiftcrypto.ch/bitbox01/other/sweep-to-bitbox02/).
 
@@ -33,18 +33,23 @@ To export your private key from the BitBox01 microSD card backup directly, pleas
 
 ### Will my coins still be safe?
 
-Yes. Your coins will still be stored on the BitBox01. The BitBox01 will continue to work and you will always be able to recover and transfer your funds regardless of the end of support date. However, after November 2020, it may be less convenient to move funds off the BitBox01. We recommend moving your funds to a BitBox02 or another wallet before then.
+Your coins will still be stored on the BitBox01. The BitBox01 will continue to work and you will be able to recover and transfer your funds regardless of the end of support date. However, after November 2020, it may be a lot more complicated to move funds off the BitBox01. We recommend moving your funds to a BitBox02 or another wallet before then.
 
 [How to migrate funds from BitBox01 to BitBox02](https://guides.shiftcrypto.ch/bitbox01/other/sweep-to-bitbox02/).
+
+### Which BitBoxApp version is the last one that will support BitBox01?
+
+The last BitBoxApp version with full BitBox01 support is 4.37.3.
+After this version, the BitBoxApp only has limited support, allowing you to manage your wallet backups but no transactions can be made.
+
+To download BitBoxApp version 4.37.3, please visit [our Github releases page](https://github.com/BitBoxSwiss/bitbox-wallet-app/releases/tag/v4.47.3).
+
+You can find the download files in the "Assets" section. 
+- For MacOS, install file "...macOS.dmg"
+- For Windows, install file "...win64-installer.exe"
+- For Linux, install file "...x86_64.AppImage" or "...amd64.deb"
 
 
 ### What does EOL (end-of-life) mean?
 
 EOL (end-of-life) for the BitBox01 means that we will stop actively releasing updates for the BitBox01 after November 2020, but may continue to do so if circumstances allow. EOL also means that the lifetime warranty terminates after this date.
-
-
-### I’m a BitBox01 owner, do I get a discount on a BitBox02?
-
-Yes. We’re offering all BitBox01 customers a loyalty discount to move over to the BitBox02. The discount code will be available as an in-app notification included in the BitBoxApp (from version 4.15.0).
-
-[Get a BitBox02](https://shiftcrypto.ch/bitbox02/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
